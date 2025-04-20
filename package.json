@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@fastify/cors": "^11.0.1",
+    "@fastify/formbody": "^8.0.2",
+    "@fastify/websocket": "^11.0.2",
+    "alawmulaw": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "fastify": "^5.3.2",
+    "ffmpeg-static": "^5.2.0",
+    "g711": "^1.0.1",
+    "llama-stack-client": "^0.2.2",
+    "openai": "^4.95.1",
+    "say": "^0.16.0",
+    "twilio": "^5.5.2",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.1"
+  }
+}
